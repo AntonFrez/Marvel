@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Marvel/static/css/main.a1a699b6.chunk.css",
-    "main.js": "/Marvel/static/js/main.03294473.chunk.js",
-    "main.js.map": "/Marvel/static/js/main.03294473.chunk.js.map",
-    "runtime-main.js": "/Marvel/static/js/runtime-main.21c96f96.js",
-    "runtime-main.js.map": "/Marvel/static/js/runtime-main.21c96f96.js.map",
-    "static/js/2.a3e9c81c.chunk.js": "/Marvel/static/js/2.a3e9c81c.chunk.js",
-    "static/js/2.a3e9c81c.chunk.js.map": "/Marvel/static/js/2.a3e9c81c.chunk.js.map",
-    "index.html": "/Marvel/index.html",
-    "static/css/main.a1a699b6.chunk.css.map": "/Marvel/static/css/main.a1a699b6.chunk.css.map",
-    "static/js/2.a3e9c81c.chunk.js.LICENSE.txt": "/Marvel/static/js/2.a3e9c81c.chunk.js.LICENSE.txt",
-    "static/media/Avengers.4065c8f9.png": "/Marvel/static/media/Avengers.4065c8f9.png",
-    "static/media/Avengers_logo.9eaf2193.png": "/Marvel/static/media/Avengers_logo.9eaf2193.png",
-    "static/media/error.42292aa1.gif": "/Marvel/static/media/error.42292aa1.gif",
-    "static/media/mjolnir.61f31e18.png": "/Marvel/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/Marvel/static/media/vision.067d4ae1.png"
+    "main.css": "/Portfolio/static/css/main.6b856586.css",
+    "main.js": "/Portfolio/static/js/main.0b4f178b.js",
+    "static/media/sushi.jpg": "/Portfolio/static/media/sushi.94d7b68364d5b9f008de.jpg",
+    "static/media/marvel.jpg": "/Portfolio/static/media/marvel.1f479180e6d31804c88f.jpg",
+    "static/media/pokemon.jpg": "/Portfolio/static/media/pokemon.66212427aba5a5a355b5.jpg",
+    "static/media/my-photo.jpg": "/Portfolio/static/media/my-photo.537c9512585305f01ca7.jpg",
+    "static/media/icons8-react-native.svg": "/Portfolio/static/media/icons8-react-native.1eb43be9345c56884ed13aef5fea15cb.svg",
+    "static/media/icons8-nodejs.svg": "/Portfolio/static/media/icons8-nodejs.8e6856b6db7546177a0853d24475f0e2.svg",
+    "static/media/icons8-sass.svg": "/Portfolio/static/media/icons8-sass.1d68cc96053a13c9da3b4db50734924b.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/icons8-git.svg": "/Portfolio/static/media/icons8-git.83ee1126e80b063dc06b84418d921d80.svg",
+    "static/media/bootstrap.svg": "/Portfolio/static/media/bootstrap.dbb591806ea70d8fc3e7e208c130d1dd.svg",
+    "static/media/icons8-javascript.svg": "/Portfolio/static/media/icons8-javascript.520907f903ef173ecf1a5fd3161377c2.svg",
+    "static/media/icons8-html-5.svg": "/Portfolio/static/media/icons8-html-5.63266d28861e5a66836664c941ca48ad.svg",
+    "static/media/bem.svg": "/Portfolio/static/media/bem.b1efff32a8c79e7740c08102803827f7.svg",
+    "static/media/css3-svgrepo-com.svg": "/Portfolio/static/media/css3-svgrepo-com.0d9c260e0e9f9ce0b1fc0d9b7618cdf3.svg",
+    "main.6b856586.css.map": "/Portfolio/static/css/main.6b856586.css.map",
+    "main.0b4f178b.js.map": "/Portfolio/static/js/main.0b4f178b.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.21c96f96.js",
-    "static/js/2.a3e9c81c.chunk.js",
-    "static/css/main.a1a699b6.chunk.css",
-    "static/js/main.03294473.chunk.js"
+    "static/css/main.6b856586.css",
+    "static/js/main.0b4f178b.js"
   ]
 }
